@@ -1,0 +1,21 @@
+{
+  "name": "projetrestaurants",
+  "version": "1.0.0",
+  "description": "projetrestaurants",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./public/sass/main.scss:./public/css/style.css",
+    "prefix": "postcss ./public/css/style.css --use autoprefixer -d ./public/css/prefixed/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Faumoi77/ProjetRestaurants.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "browserslist": "last 4 versions"
+  "bugs": {
+    "url": "https://github.com/Faumoi77/ProjetRestaurants/issues"
+  },
+  "homepage": "https://github.com/Faumoi77/ProjetRestaurants#readme"
+}
