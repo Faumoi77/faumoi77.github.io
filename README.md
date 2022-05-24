@@ -82,4 +82,6 @@ la droite vers la gauche. Pour cette première version, l’effet peut apparaît
 sur desktop au lieu du clic. Si l’intitulé du plat est trop long, il devra être rogné avec
 des points de suspension. Un exemple de l’effet attendu est fourni.
 
-https://faumoi77.github.io/
+lien vers le repository : https://github.com/Faumoi77/ProjetRestaurants
+
+lien vers la page web du site : https://faumoi77.github.io/
